@@ -8,9 +8,9 @@
 * pull -> pull changes down from the remote repo to your local machine
 
 # process of uploading code files to github
-## cd "C:\Users\rakes\Documents\Raq files\Data Science\project_github"
-* git config --global user.name "Rakeshkanth"
-* git config --global user.email rakeshleonel@gmail.com
+## cd "File path"
+* git config --global user.name "username"
+* git config --global user.email xyz@gmail.com
 
 * cd "Filepath"
 * ls "list of files"
