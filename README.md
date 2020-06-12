@@ -27,5 +27,15 @@
 * git status
 ## commit 
 * git commit -m "First commit"
+
 ## push the code file into github
 * git push origin master
+
+# Delete the files from github
+* git rm --cached xyz.csv
+* git commit -m "Deletes xyz"
+* git push origin master
+
+
+
+
