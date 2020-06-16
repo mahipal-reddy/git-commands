@@ -18,6 +18,9 @@
 * ls "list of files"
 ## Initialize repository
 * git init
+## path to github 
+* git remote add origin GITHUBREPO_LINK
+* git remote -v
 ## add new files
 * git add . (for all files)
 * git add xyz.py (for each file)
